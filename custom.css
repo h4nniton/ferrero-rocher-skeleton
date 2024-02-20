@@ -1,0 +1,13 @@
+/* customizar as configurações pré-definidas do skeleton */
+
+* {
+    background-color: #2E1012;
+}
+
+/* imagem de fundo */
+.u-max-full-width {
+    width: 85%;
+    margin: auto;
+    display: block;
+    margin-top: 4%;
+}
